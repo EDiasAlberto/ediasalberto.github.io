@@ -2884,7 +2884,7 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #fc5185;
 			}
 
 			.statistics li.style2 {
@@ -3334,7 +3334,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #F0F0F0;
 		color: #636363;
 		border-radius: 0.25em;
 	}
@@ -3348,11 +3348,11 @@ input, select, textarea {
 		}
 
 		#main strong, #main b {
-			color: #636363;
+			color: #fc5185;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #fc5185;
 		}
 
 		#main blockquote {
@@ -3546,10 +3546,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #364f6b, #43dde6, #364f6b);
+			background-image: -webkit-linear-gradient(90deg, #364f6b, #43dde6, #364f6b);
+			background-image: -ms-linear-gradient(90deg, #364f6b, #43dde6, #364f6b);
+			background-image: linear-gradient(90deg, #364f6b, #43dde6, #364f6b);
 		}
 
 		#main table tbody tr {
