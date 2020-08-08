@@ -574,7 +574,7 @@ input, select, textarea {
 					padding-top: 3em;
 				}
 
-		 
+
 		@media screen and (max-width: 1680px) {
 
 			.row {
@@ -2268,8 +2268,8 @@ input, select, textarea {
 			.icon.major:before {
 				display: inline-block;
 				font-size: 6.25rem;
-				width: 2.25em;
-				height: 2.25em;
+				width: 2em;
+				height: 2em;
 				line-height: 2.2em;
 				border-radius: 100%;
 				border: solid 1px;
