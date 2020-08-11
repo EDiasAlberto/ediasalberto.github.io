@@ -3576,6 +3576,10 @@ input, select, textarea {
 			border-color: #dddddd;
 		}
 
+		#main .error {
+			font-size: 25px
+		}
+
 		#main > .main {
 			padding: 5em 5em 3em 5em ;
 			border-top: solid 1px #dddddd;
@@ -3672,6 +3676,36 @@ input, select, textarea {
 						#main > .main > .image.main:first-child img {
 							border-radius: 0;
 						}
+
+		@media screen and (max-height: 2160px) {
+			#main .error {
+				font-size: 40px
+			}
+		}
+
+		@media screen and (max-height: 1440px) {
+			#main .error {
+				font-size: 35px
+			}
+		}
+
+		@media screen and (max-height: 1080px) {
+			#main .error {
+				font-size: 30px
+			}
+		}
+
+		@media screen and (max-height: 720px) {
+			#main .error {
+				font-size: 25px
+			}
+		}
+
+		@media screen and (max-height: 480px) {
+			#main .error {
+				font-size: 20px
+			}
+		}
 
 		}
 
