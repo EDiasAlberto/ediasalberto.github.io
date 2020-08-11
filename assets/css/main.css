@@ -3410,6 +3410,7 @@ input, select, textarea {
 			#main .button.primary {
 				background-color: #43dde6;
 				color: #ffffff !important;
+				font-weight: bold;
 				box-shadow: none;
 			}
 
